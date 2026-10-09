@@ -1,0 +1,6 @@
+{
+  "name": "GES Chak No. 227/W.B - Lodhran",
+  "description": "Official educational portal of Government Elementary School Chak No. 227/W.B, Markaz Zakheera, DEA Lodhran, Punjab, Pakistan. Quality education, character building, and academic resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
